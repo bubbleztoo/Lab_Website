@@ -1,0 +1,42 @@
+/* Add any css you want to use for you website here */
+p
+{
+  font-family: "Comic Sans MS";
+  font-size: 28px;
+  font-weight: bold;
+}
+a
+{
+  font-size: 24px;
+  font-family: "Comic Sans MS";
+  font-style: italic;
+  font-weight: bold;
+  color:red;
+}
+mark
+{
+  background-color: pink;
+  color:orange;
+}
+th
+{
+  font-family: "Comic Sans MS";
+}
+td
+{
+  font-family: "Comic Sans MS"
+}
+table, th, td
+{
+  border: 2px solid fuchsia;
+}
+th
+{
+  background-color: Purple;
+  color: hotPink;
+}
+td
+{
+  color: darkblue;
+  background-color: lightgreen;
+}
